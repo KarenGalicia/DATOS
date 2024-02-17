@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USO DE TIPOS DE DATOS NUMÉRICOS", "USO DE TIPOS DE DATOS NUMÉRICOS.csproj", "{8465F620-9EE5-4F3B-8C98-9876F672A20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8465F620-9EE5-4F3B-8C98-9876F672A20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8465F620-9EE5-4F3B-8C98-9876F672A20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8465F620-9EE5-4F3B-8C98-9876F672A20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8465F620-9EE5-4F3B-8C98-9876F672A20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DE4FD0-3449-47C9-A2D6-281F7D29FEE5}
+	EndGlobalSection
+EndGlobal
